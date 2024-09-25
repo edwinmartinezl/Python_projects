@@ -1,0 +1,13 @@
+1- Hoja 1: Centros educaciones con sus corrdenadas
+Variaables:
+
+1- Cantidad de centros educativos por provincia
+2- Distancia entre centros educactivos de una misma privincia
+3- Cantidad de niveles educativos en todo el pais  -- 100%
+4 - Cantidad de centros educativos por provincia -- 100%
+5- Cual fue el crecimiento de matriculados de rd desde el 2015 al 2021 - 100%
+6- Que procentaje de matriculados eran hombre y mujeres desde el 2015 al 2021
+
+
+
+
